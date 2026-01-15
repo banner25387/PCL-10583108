@@ -5,10 +5,12 @@ tags:
   - "#トワイライヴ"
   - "#Youtube"
   - "#Twitch"
-url: [https://youtube.com/playlist?list=PLIHyIgRAWkUzOkGo1ywysoxtKZkiWYgqh&si=YgchnI9I0g2xCWFh](https://youtube.com/playlist?list=PLIHyIgRAWkUzOkGo1ywysoxtKZkiWYgqh&si=YgchnI9I0g2xCWFh)
 ---
+#### リンク
+[https://youtube.com/playlist?list=PLIHyIgRAWkUzOkGo1ywysoxtKZkiWYgqh&si=YgchnI9I0g2xCWFh](https://youtube.com/playlist?list=PLIHyIgRAWkUzOkGo1ywysoxtKZkiWYgqh&si=YgchnI9I0g2xCWFh)
 
-## # DAY1～5
+#### 感想
+##### DAY1～5
 
 VCRGTA3 DAY1～5お疲れ様でした！ 今回のギャングは、比較的厳しい陣営でしたね。でも、これまでの経験を活かすことで、一部調整はあったものの、大部分の知識をそのまま活用できたのが良かったです。 初日からさまざまな作業をこなしてお金を稼ぐ必要があって、本当に大変だったと思います。  
 でも、こういうリセットの機会があると、厳しいスタートでも、未来の自分を感動させるような努力ができたら、それは本当に素晴らしいことだと思います。 今回のメンバーには、トワ様が以前の大会に参加されていた時を思い出させる方もいれば、初めて見る方もいて、新鮮でした。  
@@ -21,7 +23,7 @@ VCRGTA3 DAY1～5お疲れ様でした！ 今回のギャングは、比較的厳
 
 さて、今日の6日目にはどんなことが起こるのでしょうか？本当に楽しみです！
 
-## DAY6～10
+##### DAY6～10
 VCRGTA3 DAY6～10 お疲れ様でした！
 
 どの型の犯罪でも、餓狼のメンバーが初めてミッションを成功させた時のみんなの喜びを見て、本当に心から嬉しかったです。何度も挫折を経験した後、ついに成功を掴み、その後どんどんスムーズに任務をこなしていく姿は、まさに努力が報われた瞬間でした。それを目の当たりにして、とても胸が熱くなりました。
