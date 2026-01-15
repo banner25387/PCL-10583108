@@ -1,5 +1,5 @@
 ---
-title: "VCRGTA3 DAY6～10"
+title: "VCRGTA3"
 date: "2024-12-12T16:37:00+08:00"
 tags:
   - "#トワイライヴ"
@@ -7,7 +7,7 @@ tags:
   - "#Twitch"
 ---
 #### リンク
-![ ](https://youtube.com/playlist?list=PLIHyIgRAWkUzOkGo1ywysoxtKZkiWYgqh&si=YgchnI9I0g2xCWFh)
+![](https://youtube.com/playlist?list=PLIHyIgRAWkUzOkGo1ywysoxtKZkiWYgqh&si=YgchnI9I0g2xCWFh)
 
 #### 感想
 ##### DAY1～5
