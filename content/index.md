@@ -14,5 +14,5 @@ title: リー ペイイー👾
 たまに繁体字中国語と英語書いています。
 
 **Contact:**  
-X: [@banner25387](https://twitter.com/banner25387)
+X: [@banner25387](https://twitter.com/banner25387)  
 Bluesky: [@banner25387](https://bsky.app/profile/banner25387.bsky.social)
