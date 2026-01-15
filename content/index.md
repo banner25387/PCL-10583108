@@ -15,3 +15,4 @@ title: リー ペイイー👾
 
 **Contact:**  
 X: [@banner25387](https://twitter.com/banner25387)
+Bluesky: [@hoku-0sugi](https://bsky.app/profile/hoku-0sugi.bsky.social)
