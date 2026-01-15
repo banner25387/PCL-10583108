@@ -38,9 +38,25 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const dateA = new Date(a.dates?.published ?? a.dates?.created ?? 0)
+        const dateB = new Date(b.dates?.published ?? b.dates?.created ?? 0)
+        return dateB.getTime() - dateA.getTime()
+      },
+    }),
+    Component.DesktopOnly(Component.RecentNotes({ title: "📁 所有標籤", limit: 0, linkToMore: "/tags" })),
   ],
   right: [
+    Component.ConditionalRender({
+      condition: (page) => page.fileData.slug === "index",
+      component: Component.RecentNotes({
+        title: "最新貼文",
+        limit: 1,
+        showTags: true,
+        filter: (f) => (f.filePath ? !f.filePath.endsWith("index.md") : true),
+      }),
+    }),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
