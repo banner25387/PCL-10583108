@@ -7,6 +7,7 @@ tags:
   - "#Twitch"
 url: "https://youtube.com/playlist?list=PLIHyIgRAWkUzOkGo1ywysoxtKZkiWYgqh&si=YgchnI9I0g2xCWFh"
 ---
+
 ## # DAY1～5
 
 VCRGTA3 DAY1～5お疲れ様でした！ 今回のギャングは、比較的厳しい陣営でしたね。でも、これまでの経験を活かすことで、一部調整はあったものの、大部分の知識をそのまま活用できたのが良かったです。 初日からさまざまな作業をこなしてお金を稼ぐ必要があって、本当に大変だったと思います。  
