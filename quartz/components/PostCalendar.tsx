@@ -232,4 +232,4 @@ export default ((userOpts?: Partial<Options>) => {
 })()
 `
   return PostCalendar
-}) satisfies QuartzComponentConstructor)
+}) satisfies QuartzComponentConstructor

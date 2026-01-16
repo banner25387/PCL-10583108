@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
         return dateB.getTime() - dateA.getTime()
       },
     }),
-    Component.DesktopOnly(Component.RecentNotes({ title: "📁 Tags", limit: 0, linkToMore: "/tags" })),
+    Component.DesktopOnly(Component.RecentNotes({ title: "📁 Tags", limit: 0, linkToMore: "tags" })),
   ],
   right: [
     Component.ConditionalRender({
@@ -56,7 +56,10 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: true,
         filter: (f) => (f.filePath ? !f.filePath.endsWith("index.md") : true),
       }),
-      component: Component.PostCalendar({ title: "Calendar" }
+    }),
+    Component.ConditionalRender({
+      condition: (page) => page.fileData.slug === "index",
+      component: Component.PostCalendar({ title: "Calendar" }),
     }),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
