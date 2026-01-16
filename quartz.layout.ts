@@ -56,6 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: true,
         filter: (f) => (f.filePath ? !f.filePath.endsWith("index.md") : true),
       }),
+      component: Component.PostCalendar({ title: "Calendar" }
     }),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
