@@ -1,5 +1,5 @@
 ---
-title: "#holoGTA Day 5"
+title: "【#holoGTA】 Day 5"
 date: "2024-09-22T00:49:00+08:00"
 tags:
   - "#トワイライヴ"

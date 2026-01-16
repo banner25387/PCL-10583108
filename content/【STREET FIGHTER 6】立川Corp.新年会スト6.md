@@ -1,10 +1,10 @@
 ---
-title: 立川Corp.新年会スト6
+title: 【STREET FIGHTER 6】立川Corp.新年会スト6
 date: 2026-01-16T03:38:00+08:00
 tags:
   - "#トワイライヴ"
   - "#Youtube"
-  - "#STREET_FIGHTER_6"
+  - "#STREETFIGHTER6"
 ---
 #### リンク
 [ https://www.youtube.com/live/QIXNqYtIzyY?si=yIC4SX0HsEBngdQs](https://www.youtube.com/live/QIXNqYtIzyY?si=yIC4SX0HsEBngdQs)
