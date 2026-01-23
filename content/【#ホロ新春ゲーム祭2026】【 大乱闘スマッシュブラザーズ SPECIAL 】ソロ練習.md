@@ -4,6 +4,8 @@ date: "2026-01-23T17:10:00+08:00"
 tags:
   - "#トワイライヴ"
   - "#Youtube"
+  - "#ホロ新春ゲーム祭2026"
+  - "#大乱闘スマッシュブラザーズ SPECIAL"
 ---
 #### リンク
 [ 大乱闘スマッシュブラザーズ SPECIAL 】#ホロ新春ゲーム祭2026 魂のキャラクター決め【常闇トワ/ホロライブ](https://www.youtube.com/live/MlMWKTGJQRM?si=lo7rQ5DvK-6ggHQE)
