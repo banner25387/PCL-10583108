@@ -8,7 +8,11 @@ tags:
   - "#大乱闘スマッシュブラザーズ SPECIAL"
 ---
 #### リンク
-[ 大乱闘スマッシュブラザーズ SPECIAL 】#ホロ新春ゲーム祭2026 魂のキャラクター決め【常闇トワ/ホロライブ](https://www.youtube.com/live/MlMWKTGJQRM?si=lo7rQ5DvK-6ggHQE)
+[ 【大乱闘スマッシュブラザーズ SPECIAL 】#ホロ新春ゲーム祭2026 魂のキャラクター決め【常闇トワ/ホロライブ](https://www.youtube.com/live/MlMWKTGJQRM?si=lo7rQ5DvK-6ggHQE)
+
+[【 大乱闘スマッシュブラザーズ SPECIAL 】#ホロ新春ゲーム祭2026 スタジオ行く前にちょびっと‼️【常闇トワ/ホロライブ](https://www.youtube.com/live/U0W3CnNW2g4?si=mz37YB3c9LB63UNG)
+
+
 
 
 #### 感想
