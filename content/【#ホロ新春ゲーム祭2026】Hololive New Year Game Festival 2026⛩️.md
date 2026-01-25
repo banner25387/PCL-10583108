@@ -1,5 +1,5 @@
 ---
-title: "【#ホロ新春ゲーム祭2026】# Hololive New Year Game Festival 2026⛩️"
+title: "【#ホロ新春ゲーム祭2026】Hololive New Year Game Festival 2026⛩️"
 date: "2026-01-24T22:20:00+08:00"
 tags:
   - "#トワイライヴ"
