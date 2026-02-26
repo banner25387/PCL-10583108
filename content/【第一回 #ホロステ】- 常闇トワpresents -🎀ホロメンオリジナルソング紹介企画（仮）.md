@@ -9,7 +9,7 @@ tags:
 #### **🔗リンク🔗**
 [【 第一回 】- 常闇トワpresents -🎀ホロメンオリジナルソング紹介企画（仮）【常闇トワ/ホロライブ】](https://www.youtube.com/live/7IahbrCM178?si=yHtqTJcS1kFD-yya)  
 
-[🎶#ホロステ / ホロソングステーション]([https://www.youtube.com/live/7IahbrCM178?si=yHtqTJcS1kFD-yya](https://youtube.com/playlist?list=PLIHyIgRAWkUxnngRyaMnrURK1sHep1L37&si=ZJLTusxpLh1JtMtV))
+[🎶#ホロステ / ホロソングステーション](https://youtube.com/playlist?list=PLIHyIgRAWkUxnngRyaMnrURK1sHep1L37&si=ZJLTusxpLh1JtMtV)
  
 
 #### **📝感想📝**
