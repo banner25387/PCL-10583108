@@ -1,3 +1,10 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// 行事曆中文章連結的顏色
+.post-calendar .pc-list a {
+  color: #e06c75;  // 例如粉紅色
+}
+
+.post-calendar .pc-list a:hover {
+  color: var(--tertiary);   // hover 時的顏色
+}
