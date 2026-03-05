@@ -8,3 +8,8 @@
 .post-calendar .pc-list a:hover {
   color: var(--tertiary);   // hover 時的顏色
 }
+
+// 行事曆中有文章的日期 — 紫羅蘭色
+.post-calendar .pc-day.has-post {
+  color: #8B5CF6;
+}
