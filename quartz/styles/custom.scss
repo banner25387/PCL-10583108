@@ -1,6 +1,5 @@
 @use "./base.scss";
 
-
 // 行事曆中有文章的日期 — 紫羅蘭色
 .post-calendar .pc-day.has-post {
   color: #cabaff;
@@ -8,25 +7,28 @@
 
 // 行事曆中文章連結的顏色
 .post-calendar .pc-list a {
-  color:#F7ABD5;
+  color: #F7ABD5;
 }
 
 .post-calendar .pc-list a:hover {
   color: var(--tertiary);
 }
 
-// Tag 標籤 — 黃色
+// Tag 標籤 — 黃底紫字
 a.tag-link {
-  color: #fff29e;
+  color: #8B5CF6 !important;
+  background-color: #fff29e;
 }
 
 // 左側文章列表（Explorer）— 藍色
-.explorer a {
-  color: #99d8ff;
+#explorer-ul a {
+  color: #99d8ff !important;
 }
 
 // Graph View 節點顏色
-.graph {
-  --secondary: #cabaff;
-  --tertiary: #F38514;
+:root {
+  --graph-secondary: #cabaff;
+}
+.graph > svg circle {
+  fill: #F38514 !important;
 }
