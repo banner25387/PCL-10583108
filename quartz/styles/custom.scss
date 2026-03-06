@@ -15,20 +15,18 @@
 }
 
 // Tag 標籤 — 黃底紫字
-a.tag-link {
+a.internal.tag-link {
   color: #8B5CF6 !important;
   background-color: #fff29e !important;
+  border-color: #fff29e !important;
 }
 
 // 左側文章列表（Explorer）— 藍色
-#explorer-ul a {
+.explorer a {
   color: #99d8ff !important;
 }
 
-// Graph View 節點顏色
-:root {
-  --graph-secondary: #cabaff;
-}
-.graph > svg circle {
-  fill: #F38514 !important;
+// Footer 連結 — 橘色
+footer a {
+  color: #F38514 !important;
 }
