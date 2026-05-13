@@ -1,10 +1,10 @@
 ---
-title: "{ title }"
+title: "【 PUBG 】VCC"
 date: "2026-05-13T01:52:00+08:00"
 tags:
   - "#トワイライヴ"
   - "#Youtube"
-  - "#Twitch"
+  - "#VCCPUBG"
 ---
 #### **🔗リンク🔗**
 [【 PUBG 】VCCぱぶじ！ドン勝目指して🔥 w/Cpt,Mondo,でろーんさん【常闇トワ/ホロライブ】 ](https://www.youtube.com/live/Oo1oq_tOd6A?si=Yxz4SgA8sBwI6gdg)

@@ -1,5 +1,5 @@
 ---
-title: "Unrailed2 w/ぷてち"
+title: "【👾Unrailed2 】 w/ぷてち"
 date: "2026-05-13T01:50:00+08:00"
 tags:
   - "#トワイライヴ"
