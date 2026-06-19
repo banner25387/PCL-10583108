@@ -24,7 +24,7 @@ tags:
 
 [【 STREET FIGHTER 6 】れんしゅう！！【常闇トワ/ホロライブ】](https://www.youtube.com/live/K0oOvdceokY?si=Sc28SXFVaOIa-Ma7)
 
-[ STREET FIGHTER 6 】カスタム募集です！！【常闇トワ/ホロライブ】 ](https://www.youtube.com/live/2RABImu9lsg?si=u8pqpBjw_4Euwl_u)
+[【 STREET FIGHTER 6 】カスタム募集です！！【常闇トワ/ホロライブ】 ](https://www.youtube.com/live/2RABImu9lsg?si=u8pqpBjw_4Euwl_u)
 
 [ 【 STREET FIGHTER 6 】V最チーム01番‼️コーチも含めて顔合わせ✨️【常闇トワ/ホロライブ】](https://www.youtube.com/live/Iu8K9FaOOww?si=RqRG_2KgxC6Mcwrp)
 
