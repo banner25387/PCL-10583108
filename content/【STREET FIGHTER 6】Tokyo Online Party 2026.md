@@ -1,10 +1,11 @@
 ---
-title: "【STREET FIGHTER 6】Tokyo Online Party 2026"
-date: "2026-06-15T01:00:00+08:00"
+title: 【STREET FIGHTER 6】Tokyo Online Party 2026
+date: 2026-06-15T01:00:00+08:00
 tags:
   - "#トワイライヴ"
   - "#Youtube"
   - "#TOP"
+  - "#STREETFIGHTER6"
 ---
 #### **🔗リンク🔗**
 [ 【 STREET FIGHTER 6 】Tokyo Online Party 2026 EARLY SUMMER w/ももち、さはら【常闇トワ/ホロライブ】](https://www.youtube.com/live/C1I_K5Kimdk?si=qxOSKHRkL786XaIB)
