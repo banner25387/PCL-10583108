@@ -1,11 +1,12 @@
 ---
-title: "【STREET FIGHTER 6】#V最協第二幕 スクリム"
-date: "2026-06-19T22:43:00+08:00"
+title: 【STREET FIGHTER 6】#V最協第二幕 スクリム
+date: 2026-06-19T22:43:00+08:00
 tags:
   - "#トワイライヴ"
   - "#Youtube"
   - "#V最協第二幕"
   - "#N8SWIN"
+  - "#STREETFIGHTER6"
 ---
 #### **🔗リンク🔗**
 
