@@ -1,5 +1,5 @@
 ---
-title: 【 STREET FIGHTER 6 】招集
+title: 【STREET FIGHTER 6】招集
 date: 2026-08-06T20:53:00+08:00
 tags:
   - "#トワイライヴ"
