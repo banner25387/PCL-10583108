@@ -8,7 +8,7 @@ tags:
   - "#3Dトワ様"
 ---
 #### **🔗リンク🔗**
-[【 第五回 / #ホロステ 】- 常闇トワpresents -🎀ホロソングステーション　EN/ID回　【常闇トワ/ホロライブ】 ](https://www.youtube.com/live/G2BYmzFbUxc?si=UjjuChpFyQcv3QVp)
+[【 第五回 /　#ホロステ 】- 常闇トワpresents -🎀ホロソングステーション　EN/ID回　【常闇トワ/ホロライブ】 ](https://www.youtube.com/live/G2BYmzFbUxc?si=UjjuChpFyQcv3QVp)
 
 [🎶#ホロステ / ホロソングステーション](https://youtube.com/playlist?list=PLIHyIgRAWkUxnngRyaMnrURK1sHep1L37&si=ZJLTusxpLh1JtMtV)
 

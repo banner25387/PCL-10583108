@@ -7,7 +7,7 @@ tags:
   - "#ホロステ"
 ---
 #### **🔗リンク🔗**
-[ 【 第四回 / #ホロステ 】- 常闇トワpresents -🎀ホロソングステーション【常闇トワ/ホロライブ】](https://www.youtube.com/live/2hS7-c-v8f8?si=Ko6wjh-ex1xU1O1h)
+[ 【 第四回 /　#ホロステ 】- 常闇トワpresents -🎀ホロソングステーション【常闇トワ/ホロライブ】](https://www.youtube.com/live/2hS7-c-v8f8?si=Ko6wjh-ex1xU1O1h)
 
 [🎶#ホロステ / ホロソングステーション](https://youtube.com/playlist?list=PLIHyIgRAWkUxnngRyaMnrURK1sHep1L37&si=ZJLTusxpLh1JtMtV)
 
