@@ -8,6 +8,13 @@ tags:
   - "#OW2"
   - "#CRカップOW2"
 ---
+#### リンク
+[【Overwatch2】OW2CRカップ4へ参戦！DAY1、顔合わせロールなど…？どうなるん！？【常闇トワ/ホロライブ】](https://www.youtube.com/live/108RvvAXafw)
+
+[【Overwatch2】OW2CRカップ4へ参戦！DAY2、最強のヒーラーを目指して【常闇トワ/ホロライブ】](https://www.youtube.com/live/1EJIlK_Tjgk)
+
+[【Overwatch2】OW2CRカップ4へ参戦！DAY3：スクリム最終日！AIM筋どうにかなれ～！【常闇トワ/ホロライブ】](https://www.youtube.com/live/LeL3Kfsk0SM)
+
 
 #### 感想
 第4回CRカップOW2スクリム3日間お疲れ様でした！  

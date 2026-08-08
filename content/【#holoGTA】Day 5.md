@@ -7,7 +7,7 @@ tags:
   - #holoGTA 
 ---
 #### リンク
-![ ]()
+[【　#holoGTA 】DAY5 ｜ 昨日は初の大型へ✨️ ボスの顔つきになって・・・きた！？ 【常闇トワ/ホロライブ】](https://www.youtube.com/live/A4UvucgCm-s)
 
 
 #### 感想
