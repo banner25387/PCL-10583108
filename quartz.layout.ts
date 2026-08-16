@@ -38,13 +38,10 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      sortFn: (a, b) => {
-        const dateA = new Date(a.dates?.published ?? a.dates?.created ?? 0)
-        const dateB = new Date(b.dates?.published ?? b.dates?.created ?? 0)
-        return dateB.getTime() - dateA.getTime()
-      },
-    }),
+    // 名前順（デフォルト）を明示的な仕様として採用：タイトル先頭の【シリーズ名】が
+    // 自然にシリーズ索引になるため（2026-08-16 沛拍板）。
+    // 以前ここにあった日付ソートは存在しないプロパティを参照しており一度も機能していなかった。
+    Component.Explorer(),
     Component.DesktopOnly(Component.RecentNotes({ title: "📁 Tags", limit: 0, linkToMore: "tags" })),
   ],
   right: [
