@@ -143,8 +143,8 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
           // remove description from content index as nothing downstream
           // actually uses it. we only keep it in the index as we need it
           // for the RSS feed
-          // NOTE: date is kept (upstream deletes it) — kept for engine parity
-          // across the three PCL sites (research/life sort Explorer by it).
+          // NOTE: date is kept (upstream deletes it) — our Explorer sortFn
+          // sorts files by date, which reads node.data.date from this index.
           delete content.description
           return [slug, content]
         }),
