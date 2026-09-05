@@ -19,10 +19,10 @@ tags:
 
 
 #### **🦖企画情報🦖**
-AKIROSE CAMP - SURVIVAL BLOOM in ARK -
-📅 2026.09.04 FRI - 09.06 SUN　⏰ 19:00 - 24:00 JST（3日間開催予定）
-🎮 Ark: Survival ascended
-👤 主催：アキ・ローゼンタール
+AKIROSE CAMP - SURVIVAL BLOOM in ARK -  
+📅 2026.09.04 FRI - 09.06 SUN　⏰ 19:00 - 24:00 JST（3日間開催予定）  
+🎮 Ark: Survival ascended  
+👤 主催：アキ・ローゼンタール  
 🤝 制作協力：VAULTROOM
 
 詳しい企画情報は、アキ・ローゼンタールさんの動画の概要欄をチェックしてみてください。
