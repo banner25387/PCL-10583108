@@ -1,5 +1,5 @@
 ---
-title: "≪3D Bae-gemite Extravaganza!! ≫ It is TIME ... w/ HUGE ANNOUNCEMENTS! #BaeBig5th"
+title: "≪3D Bae-gemite Extravaganza!! ≫"
 date: 2026-09-10T17:18:00+08:00
 tags:
   - "#Youtube"
