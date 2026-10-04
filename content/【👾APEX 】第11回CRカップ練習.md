@@ -6,7 +6,7 @@ tags:
   - "#Youtube"
   - "#Twitch"
   - "#ApexLegends"
-  - "#トコトコうるふぃWIN"
+  - "#とことこうるふぃWIN"
 ---
 #### **🔗リンク🔗**
 [【 Apex Legends 】せりーとありさんと！【常闇トワ / ホロライブ】](https://www.youtube.com/live/KGOAr2ZiOrs?si=LwgEeUilTPWHSX-s)
